@@ -578,7 +578,7 @@ export default defineConfig({
                   label: '2. Add star ratings',
                   link: '/real-world-development/cli/2-add-star-rating/',
                   translations: {
-                    'ko-KR': '2. 빠른 성과로 별점 추가하기',
+                    'ko-KR': '2. 별점 추가하기',
                   },
                 },
                 {
